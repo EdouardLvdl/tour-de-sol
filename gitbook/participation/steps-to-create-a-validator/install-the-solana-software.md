@@ -13,7 +13,7 @@ curl -X POST -H "Content-Type: application/json" -d '{"jsonrpc": "2.0","id":1,"m
 Install the Solana release [v0.20.1](https://github.com/solana-labs/solana/releases/tag/v0.20.1) on your machine by running:
 
 ```bash
-curl -sSf https://raw.githubusercontent.com/solana-labs/solana/v0.19.1/install/solana-install-init.sh | sh -s - 0.20.1
+curl -sSf https://raw.githubusercontent.com/solana-labs/solana/v0.20.1/install/solana-install-init.sh | sh -s - 0.20.1
 ```
 
 The following output indicates a successful update:
